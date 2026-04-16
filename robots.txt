@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zeshanalikhan.github.io/lahore-qalandars-peshawar-zalmi-psl-preview/sitemap.xml
+
